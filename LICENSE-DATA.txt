@@ -1,0 +1,7 @@
+The data of this repository (data/filaments.csv, data/centerlines/ and the sample movies attached to its
+releases) are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Copyright (c) 2026 H. Long, S. Williams, C. Browne, C. Osuji
+
+You may share and adapt the data for any purpose, provided that you give appropriate credit.
+Full text of the license: https://creativecommons.org/licenses/by/4.0/legalcode
