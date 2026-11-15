@@ -10,6 +10,10 @@ data/videos/            three of the 56 movies they come from (20x, 0.17115 um p
                         63p2C_2.avi           pristine 12OCB, 63.2 C
                         5CB2pct_62C_2.avi     12OCB + 5CB, x_add = 6.67 %, 62.0 C
                         Chol1pct_62p9C_1.avi  12OCB + cholesterol, x_add = 3.33 %, 62.9 C
+                        The movies are too large for the repository (0.6 to 0.7 GB each). Download them from
+                        https://github.com/Haotian77/smectic-filament-bending/releases and put them in data/videos/.
+
+License: code MIT (LICENSE), data CC BY 4.0 (LICENSE-DATA.txt).
 
 Python 3.11 with numpy 2.2, scipy 1.16, pandas 2.3, matplotlib 3.10, opencv-python 4.12, scikit-image 0.25.
 
