@@ -1,5 +1,5 @@
 Bending rigidity of smectic filaments: analysis code and data
-
+(Haotian Long, Shamiah A. Williams, Chinedum O. Osuji, Christopher A. Browne)
 
 track_filaments.py      movie -> centerline of every isolated filament (.npz) and a picture for inspection (.png)
 persistence_length.py   centerlines -> persistence length l_p, 95 % CI, bend modulus K, accepted or rejected
